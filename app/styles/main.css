@@ -1,0 +1,23 @@
+:root {
+  font-size: 14px;
+}
+
+body {
+  --color-text: #ff00c4;
+  --color-bg: #1c1423;
+  --color-link: #59545e;
+  --color-link-hover: #fff;
+  --color-slide-text: #fff;
+  --color-nav: #fff;
+  --font-trail-weight: 900;
+  --font-trail-size: 17vh;
+  --font-trail-lheight: 0.75;
+  --font-trail-family: Kanit, sans-serif; 
+  color: var(--color-text);
+  background-color: var(--color-bg);
+  font-family: Kanit, sans-serif;
+  font-weight: 500;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
